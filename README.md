@@ -1,2 +1,2 @@
 # 10AngularProjects
-A place to store 10 sample projects for my AngularJs self study according to an Eduonix course.
+A place for 10 sample projects for my AngularJs self study according to a Udemy course called "Projects in AngularJS - Learn by building 10 Projects" (https://www.udemy.com/learn-angularjs-development/)
